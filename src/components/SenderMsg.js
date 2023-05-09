@@ -13,6 +13,7 @@ const SenderMsg = ({character, name, message, time}) => {
             </div>
                 <p className='py-2 px-2 bg-[#e4f7e2] rounded-md break-words'>{message}</p>
             {/* msg */}
+            {/* changes */}
         </div>
     </div>
   )
