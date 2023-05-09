@@ -17,7 +17,7 @@ const Header = () => {
             </div>
         {/* center icons */}
             <div className='flex items-center text-gray-200 px-3 space-x-3  text-sm'>
-                <div className='flex flex-col sm:px-4 p-3 gap-2 items-center cursor-pointer'>
+                <div className= 'flex flex-col sm:px-4 p-3 gap-2 items-center cursor-pointer'>
                     <img
                      className='w-[24px] text-white' 
                      src={home} 
