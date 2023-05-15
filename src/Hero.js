@@ -12,7 +12,7 @@ import MainBody from './components/MainBody';
 
 const Hero = () => {
   return (
-    <div className='p-4 md:px-16 lg:px-32 bg-[#f0f7ff]'>
+    <div className='p-4 md:px-16 sm:px-10 lg:px-32 bg-[#f0f7ff]'>
         {/* main component */}
         <div className='lg:flex-row flex-col flex justify-between'>
             {/* sidebar */}
